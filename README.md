@@ -1,10 +1,10 @@
-### Olá, eu sou o Vitor Oliveira Gomes! 👋
+### Olá, eu sou o Vitor Oliveira Gomes! 
 
 Estudante de **Engenharia de Software**, focado no desenvolvimento de aplicações web, APIs e soluções de software eficientes. Sempre em busca de aprender novas tecnologias e aprimorar meus projetos.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,7 +19,7 @@ Estudante de **Engenharia de Software**, focado no desenvolvimento de aplicaçõ
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VitorOliveiraGomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
