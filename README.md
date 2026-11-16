@@ -1,26 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=180&section=header&text=Vitor%20Oliveira%20Gomes&fontSize=40&fontColor=70a5fd&fontAlignY=38&desc=Software%20Engineering%20%7C%20Python%2C%20Web%20%26%20AI&descSize=18&descAlignY=58&descColor=a9b1d6&animation=fadeIn" width="100%" alt="Vitor Oliveira Gomes Banner" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/VitorOliveiraGomes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=70A5FD&center=true&vCenter=true&width=680&lines=Software+Engineering+Student+%40+Anhanguera;Systems+Analysis+%26+Development+Graduate;Web+Development%2C+Python%2C+Databases+%26+AI+APIs;Open+to+Tech+Internships+%26+Collaborations" alt="Typing SVG" />
-  </a>
+  <img src="./assets/header.svg" width="100%" alt="Vitor Oliveira Gomes Banner" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/VitorOliveiraGomes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/vitor-og" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/VitorOliveiraGomes/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=38bdae" alt="Portfolio" />
-  </a>
-  <a href="mailto:vitoroliveiragomes2314@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=bf91f3" alt="Email" />
-  </a>
+  <a href="https://github.com/VitorOliveiraGomes" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/vitor-og" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzcwYTVmZCI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+  <a href="https://github.com/VitorOliveiraGomes/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=38bdae" alt="Portfolio" /></a>
+  <a href="mailto:vitoroliveiragomes2314@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=bf91f3" alt="Email" /></a>
 </p>
 
 ---
@@ -47,9 +33,7 @@ Software Engineering student with a degree in **Systems Analysis and Development
 </h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,java,rust,js,html,css,sqlite,git,github,vscode&theme=dark&perline=11" alt="Tech Stack Icons" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,flask,java,rust,js,html,css,sqlite,git,github,vscode&theme=dark&perline=11" alt="Tech Stack Icons" /></a>
 </p>
 
 | Category | Technologies |
@@ -68,21 +52,13 @@ Software Engineering student with a degree in **Systems Analysis and Development
 </h3>
 
 <p align="center">
-  <a href="https://github.com/VitorOliveiraGomes/SZdisc">
-    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin?username=VitorOliveiraGomes&repo=SZdisc&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="SZdisc Repository" />
-  </a>
-  <a href="https://github.com/VitorOliveiraGomes/Chat-Bot-TEA-Educacional">
-    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin?username=VitorOliveiraGomes&repo=Chat-Bot-TEA-Educacional&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="Chat-Bot-TEA-Educacional Repository" />
-  </a>
+  <a href="https://github.com/VitorOliveiraGomes/SZdisc"><img width="49%" src="./assets/projects/szdisc.svg" alt="SZdisc Repository" /></a>
+  <a href="https://github.com/VitorOliveiraGomes/Chat-Bot-TEA-Educacional"><img width="49%" src="./assets/projects/chatbot-tea.svg" alt="Chat-Bot-TEA-Educacional Repository" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VitorOliveiraGomes/Portfolio">
-    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin?username=VitorOliveiraGomes&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="Portfolio Repository" />
-  </a>
-  <a href="https://github.com/VitorOliveiraGomes/Chat-Bot-Educacional">
-    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin?username=VitorOliveiraGomes&repo=Chat-Bot-Educacional&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="Chat-Bot-Educacional Repository" />
-  </a>
+  <a href="https://github.com/VitorOliveiraGomes/Portfolio"><img width="49%" src="./assets/projects/portfolio.svg" alt="Portfolio Repository" /></a>
+  <a href="https://github.com/VitorOliveiraGomes/Chat-Bot-Educacional"><img width="49%" src="./assets/projects/chatbot-edu.svg" alt="Chat-Bot-Educacional Repository" /></a>
 </p>
 
 ---
@@ -121,5 +97,5 @@ Software Engineering student with a degree in **Systems Analysis and Development
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>

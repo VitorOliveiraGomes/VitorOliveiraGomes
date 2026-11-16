@@ -1,0 +1,54 @@
+<svg width="854" height="190" viewBox="0 0 854 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="854" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="50%" stop-color="#24283b"/>
+      <stop offset="100%" stop-color="#1a1b27"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="177" y1="0" x2="677" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#70a5fd" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#70a5fd" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#bf91f3" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38bdae" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0" y1="120" x2="854" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#70a5fd" stop-opacity="0.16"/>
+      <stop offset="50%" stop-color="#bf91f3" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#38bdae" stop-opacity="0.16"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Ubuntu, 'Helvetica Neue', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      fill: #70a5fd;
+      letter-spacing: 0.4px;
+    }
+    .subtitle {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Ubuntu, 'Helvetica Neue', sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+      fill: #a9b1d6;
+      letter-spacing: 0.3px;
+    }
+    .mono {
+      font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace;
+      font-size: 13px;
+      font-weight: 500;
+      fill: #38bdae;
+    }
+  </style>
+
+  <rect width="854" height="190" rx="12" fill="url(#bgGrad)"/>
+  <rect x="0.5" y="0.5" width="853" height="189" rx="11.5" stroke="#292e42"/>
+
+  <path d="M0 142 C 180 112, 340 168, 520 138 C 660 114, 760 156, 854 132 L 854 178 Q 854 190 842 190 L 12 190 Q 0 190 0 178 Z" fill="url(#waveGrad)"/>
+  <path d="M0 156 C 210 178, 410 128, 630 156 C 740 170, 810 148, 854 152 L 854 178 Q 854 190 842 190 L 12 190 Q 0 190 0 178 Z" fill="#1a1b27" fill-opacity="0.45"/>
+
+  <text x="427" y="68" text-anchor="middle" class="title">Vitor Oliveira Gomes</text>
+  <rect x="247" y="82" width="360" height="2" rx="1" fill="url(#accentLine)"/>
+  <text x="427" y="108" text-anchor="middle" class="subtitle">Software Engineering  |  Python, Web Development &amp; AI</text>
+  <text x="427" y="136" text-anchor="middle" class="mono">&gt; Systems Analysis &amp; Development Graduate  ·  Software Engineering Student</text>
+</svg>

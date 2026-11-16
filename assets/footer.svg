@@ -1,0 +1,19 @@
+<svg width="854" height="90" viewBox="0 0 854 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="854" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="50%" stop-color="#24283b"/>
+      <stop offset="100%" stop-color="#1a1b27"/>
+    </linearGradient>
+    <linearGradient id="footerWave" x1="0" y1="0" x2="854" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdae" stop-opacity="0.16"/>
+      <stop offset="50%" stop-color="#bf91f3" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#70a5fd" stop-opacity="0.16"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="854" height="90" rx="12" fill="url(#footerBg)"/>
+  <rect x="0.5" y="0.5" width="853" height="89" rx="11.5" stroke="#292e42"/>
+  <path d="M0 12 Q 0 0 12 0 L 842 0 Q 854 0 854 12 L 854 44 C 720 68, 560 22, 390 48 C 230 72, 110 34, 0 52 Z" fill="url(#footerWave)"/>
+  <text x="427" y="58" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="12" fill="#a9b1d6">Thanks for visiting  ·  github.com/VitorOliveiraGomes</text>
+</svg>
