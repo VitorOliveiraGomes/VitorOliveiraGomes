@@ -84,7 +84,7 @@ Software Engineering student with a degree in **Systems Analysis and Development
 </h3>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=VitorOliveiraGomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=VitorOliveiraGomes&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=VitorOliveiraGomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6" alt="Top Languages" />
 </p>
 
