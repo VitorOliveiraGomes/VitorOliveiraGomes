@@ -52,13 +52,12 @@ Software Engineering student with a degree in **Systems Analysis and Development
 </h3>
 
 <p align="center">
-  <a href="https://github.com/VitorOliveiraGomes/SZdisc"><img width="49%" src="./assets/projects/szdisc.svg" alt="SZdisc Repository" /></a>
+  <a href="https://github.com/VitorOliveiraGomes/ScreenZ"><img width="49%" src="./assets/projects/szdisc.svg" alt="ScreenZ Repository" /></a>
   <a href="https://github.com/VitorOliveiraGomes/Chat-Bot-TEA-Educacional"><img width="49%" src="./assets/projects/chatbot-tea.svg" alt="Chat-Bot-TEA-Educacional Repository" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/VitorOliveiraGomes/Portfolio"><img width="49%" src="./assets/projects/portfolio.svg" alt="Portfolio Repository" /></a>
-  <a href="https://github.com/VitorOliveiraGomes/Chat-Bot-Educacional"><img width="49%" src="./assets/projects/chatbot-edu.svg" alt="Chat-Bot-Educacional Repository" /></a>
 </p>
 
 ---
